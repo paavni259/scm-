@@ -1,1 +1,2 @@
 hello
+higit commit -m key2git commit -m key2
